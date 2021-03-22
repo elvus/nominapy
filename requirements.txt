@@ -1,0 +1,6 @@
+requests==2.22.0
+aiohttp==3.7.3
+Flask==1.0.3
+urllib3==1.25.8
+pymongo==3.8.0
+Flask_Cors==3.0.7

@@ -94,5 +94,3 @@ def datanomina():
             except BulkWriteError as exc:
                 exc.details
             body.clear()
-    
-datanomina()
